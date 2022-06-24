@@ -1,4 +1,4 @@
-# Company Campaign Strategy
+# Company Campaign Performance
 This project was a mandatory task for DataPath 1-month Bootcamp in August-September 2021, 
 with modifications in the syntaxes (analyses methods and approaches) as well as the final report.
 
